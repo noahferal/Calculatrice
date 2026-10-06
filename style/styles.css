@@ -1,0 +1,17 @@
+.div{
+   display : flex; 
+}
+
+#entree {
+    border : 20px;
+    color :darkseagreen;
+    flex : 2;
+}
+
+#button {
+    border : 3 px;
+    width: ; 100 ;
+    color :
+    flex=1;
+
+}
