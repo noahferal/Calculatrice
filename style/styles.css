@@ -3,15 +3,12 @@
 }
 
 #entree {
-    border : 20px;
     color :darkseagreen;
-    flex : 2;
+    flex : 3;
 }
 
-#button {
-    border : 3 px;
-    width: ; 100 ;
-    color :
-    flex=1;
+.button {
+    color :antiquewhite;
+    flex : 1;
 
 }
